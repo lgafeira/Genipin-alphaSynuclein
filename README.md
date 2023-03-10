@@ -1,6 +1,23 @@
 # Genipin-alphaSynuclein
 NMR data from intracellular metabolites of S. cerevisae cells
 
+#This data is part of the paper in press in Nature Communications:
+
+Genipin modulates alpha-synuclein aggregation toxicity by promoting a metabolic shift and by modulating lipid storage
+Rita Rosado-Ramos1,2,3*, Gonçalo Poças2, Daniela Marques3, Alexandre Foito4, David M. Sevillano5, Mafalda Silva3, Luís G Gonçalveafeira2, Regina Menezes1,2,3,Marcel Ottens5, Derek Stewart4, Markus Zweckstetter6, Miguel C. Seabra, César Mendes, Tiago Fleming Outeiro6,7,8, Pedro Domingos2, Cláudia Nunes dos Santos1,2,3*
+1 iBET, Instituto de Biologia Experimental e Tecnológica, Oeiras, Portugal
+2Instituto de Tecnologia Química e Biológica António Xavier, Universidade Nova de Lisboa, Oeiras, Portugal
+3CEDOC – Chronic Diseases Research Center, Faculdade de Ciências Médicas, Universidade Nova de Lisboa, Lisboa, Portugal
+4Environmental and Biochemical Sciences, The James Hutton Institute, DD2 5DA Dundee, Scotland
+5Department of Biotechnology, Delft University of Technology, Delft, Netherlands
+6 German Center for Neurodegenerative Diseases (DZNE), 37075 Göttingen, Germany
+7Department of Experimental Neurodegeneration, University Medical Center Göttingen, Göttingen, Germany
+8 Translational and Clinical Research Institute, Faculty of Medical Sciences, Newcastle University, NE2 4HH, United Kingdom
+*corresponding author (claudia.nunes.santos@nms.unl.pt) 
+
+Questions about NMR data contact: lgafeira@itqb.unl.pt
+
+
 
 
 
