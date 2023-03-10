@@ -22,3 +22,5 @@ G2	G
 G3	G
 ![image](https://user-images.githubusercontent.com/106500/224296502-b15db1d1-eb1d-4585-aeeb-b6e9e32f8230.png)
 
+
+#It is include the raw spectra and a .csv file with the metabolites lavels.
